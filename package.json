@@ -1,0 +1,23 @@
+{
+  "name": "aura-js",
+  "version": "0.0.1",
+  "description": "compact color manipulation library",
+  "main": "aura.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://joeycadle@github.com/joeycadle/aura.js.git"
+  },
+  "keywords": [
+    "color",
+    "color manipulation"
+  ],
+  "author": "Joseph Cadle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeycadle/aura.js/issues"
+  },
+  "homepage": "https://github.com/joeycadle/aura.js#readme"
+}

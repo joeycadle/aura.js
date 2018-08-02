@@ -1,0 +1,25 @@
+# Aura.js
+
+[Aura.js](https://github.com/joeycadle/aura.js/) is a compact ES6 JavaScript library for simple color manipulation.
+
+
+### Install
+
+```bash
+npm install --save aura-js
+
+
+### Usage
+
+Lighten or darken a color by a percentage
+
+```javascript
+aura.darken('#eaeaea', 20); // #b7b7b7
+aura.lighten('rgb(44,130,130)', 20); // #50c4c4
+```
+
+Fade a color's alpha value.
+
+```javascript
+aura.fade('#000000', .50); // rgba(0,0,0,.50);
+```
