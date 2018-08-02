@@ -1,6 +1,6 @@
 {
   "name": "aura-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "compact color manipulation library",
   "main": "aura.js",
   "scripts": {
